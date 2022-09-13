@@ -1,0 +1,61 @@
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\appsettings.json
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.exe
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.deps.json
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.runtimeconfig.json
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.runtimeconfig.dev.json
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\ref\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.AssemblyInfoInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.AssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\staticwebassets\CentralComprasRestfull.StaticWebAssets.Manifest.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\staticwebassets\CentralComprasRestfull.StaticWebAssets.xml
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\scopedcss\bundle\CentralComprasRestfull.styles.css
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.RazorTargetAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\ref\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.genruntimeconfig.cache
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Helvegen\source\repos\RncciSolution\CentralComprasRestfull\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\appsettings.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.exe
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.deps.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.runtimeconfig.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.runtimeconfig.dev.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\ref\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\CentralComprasRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.csproj.AssemblyReference.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.AssemblyInfoInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.AssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\staticwebassets\CentralComprasRestfull.StaticWebAssets.Manifest.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\staticwebassets\CentralComprasRestfull.StaticWebAssets.xml
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\scopedcss\bundle\CentralComprasRestfull.styles.css
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.RazorTargetAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\ref\CentralComprasRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\CentralComprasRestfull\obj\Debug\net5.0\CentralComprasRestfull.genruntimeconfig.cache

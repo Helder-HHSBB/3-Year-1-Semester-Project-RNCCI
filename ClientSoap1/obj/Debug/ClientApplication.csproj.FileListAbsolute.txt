@@ -1,0 +1,36 @@
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.exe.config
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.exe
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.exe
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\ClientApplication.exe.config
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\ClientApplication.exe
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\ClientApplication.pdb
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\obj\Debug\ClientApplication.exe
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\ClientSoap1\obj\Debug\ClientApplication.pdb
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.exe.config
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.exe
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\ClientApplication.pdb
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.exe
+C:\Users\Helvegen\Desktop\Entrega_rncci\RncciSolution\ClientSoap1\obj\Debug\ClientApplication.pdb

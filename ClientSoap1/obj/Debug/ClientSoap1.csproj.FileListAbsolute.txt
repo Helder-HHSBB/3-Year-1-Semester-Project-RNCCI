@@ -1,0 +1,7 @@
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientSoap1.exe.config
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientSoap1.exe
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\bin\Debug\ClientSoap1.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientSoap1.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientSoap1.exe
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientSoap1.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\ClientSoap1\obj\Debug\ClientSoap1.csproj.AssemblyReference.cache

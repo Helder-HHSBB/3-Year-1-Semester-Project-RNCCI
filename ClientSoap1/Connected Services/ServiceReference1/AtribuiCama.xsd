@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/RncciSolution.Models" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/RncciSolution.Models" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfCama">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Cama" nillable="true" type="tns:Cama" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCama" nillable="true" type="tns:ArrayOfCama" />
+  <xs:complexType name="Cama">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cod_cama" type="xs:int" />
+      <xs:element minOccurs="0" name="Cod_unidade_fisica" type="xs:int" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Cama" nillable="true" type="tns:Cama" />
+</xs:schema>

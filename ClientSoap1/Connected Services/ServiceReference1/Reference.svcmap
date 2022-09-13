@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="46e170e1-3d17-4859-a02e-2c440ea6c94e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51601/Services/AtribuiCama.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AtribuiCama.xsd" MetadataType="Schema" ID="dfa2b665-bf60-4185-a956-f2d3e6272027" SourceId="1" SourceUrl="http://localhost:51601/Services/AtribuiCama.svc?xsd=xsd2" />
+    <MetadataFile FileName="AtribuiCama1.xsd" MetadataType="Schema" ID="c2bd8627-312a-4c2b-abb9-37d969379284" SourceId="1" SourceUrl="http://localhost:51601/Services/AtribuiCama.svc?xsd=xsd1" />
+    <MetadataFile FileName="AtribuiCama.wsdl" MetadataType="Wsdl" ID="c6ff5fec-3957-4a4b-9073-1e10391b3575" SourceId="1" SourceUrl="http://localhost:51601/Services/AtribuiCama.svc?wsdl" />
+    <MetadataFile FileName="AtribuiCama2.xsd" MetadataType="Schema" ID="f53c8120-51f1-49dd-b55b-19eaf4298c13" SourceId="1" SourceUrl="http://localhost:51601/Services/AtribuiCama.svc?xsd=xsd0" />
+    <MetadataFile FileName="AtribuiCama.disco" MetadataType="Disco" ID="b1540887-d9b0-4e2b-9fe4-68d3b6f111e6" SourceId="1" SourceUrl="http://localhost:51601/Services/AtribuiCama.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

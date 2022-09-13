@@ -1,0 +1,62 @@
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\appsettings.json
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.exe
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.deps.json
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.runtimeconfig.json
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.runtimeconfig.dev.json
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\ref\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\RncciRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.AssemblyReference.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.AssemblyInfoInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.AssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\staticwebassets\RncciRestfull.StaticWebAssets.Manifest.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\staticwebassets\RncciRestfull.StaticWebAssets.xml
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\scopedcss\bundle\RncciRestfull.styles.css
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.RazorTargetAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\ref\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\obj\Debug\net5.0\RncciRestfull.genruntimeconfig.cache
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Helvegen\source\repos\RncciSolution\RncciRestfull\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\appsettings.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.exe
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.deps.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.runtimeconfig.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.runtimeconfig.dev.json
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\ref\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\RncciRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.AssemblyReference.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.AssemblyInfoInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.AssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.CoreCompileInputs.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\staticwebassets\RncciRestfull.StaticWebAssets.Manifest.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\staticwebassets\RncciRestfull.StaticWebAssets.xml
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\scopedcss\bundle\RncciRestfull.styles.css
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.RazorTargetAssemblyInfo.cache
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.csproj.CopyComplete
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\ref\RncciRestfull.dll
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.pdb
+C:\Users\Helvegen\source\repos\RncciSolution - Backup\RncciRestfull\obj\Debug\net5.0\RncciRestfull.genruntimeconfig.cache
