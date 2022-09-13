@@ -272,11 +272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hélder Barbosa\\Downloads\\20212022_LEIM_ES_ISC_GSI_TG_18895_ANDRENOGUEIRA_10192_HELDERBARBOSA_19239_LAURACARDOSO (2)\\Entrega_rncci\\RncciSolution\\RncciRestfull\\RncciRestfull.csproj",
+      "projectUniqueName": "C:\\Users\\Hélder Barbosa\\source\\repos\\RncciSolution\\RncciRestfull\\RncciRestfull.csproj",
       "projectName": "RncciRestfull",
-      "projectPath": "C:\\Users\\Hélder Barbosa\\Downloads\\20212022_LEIM_ES_ISC_GSI_TG_18895_ANDRENOGUEIRA_10192_HELDERBARBOSA_19239_LAURACARDOSO (2)\\Entrega_rncci\\RncciSolution\\RncciRestfull\\RncciRestfull.csproj",
+      "projectPath": "C:\\Users\\Hélder Barbosa\\source\\repos\\RncciSolution\\RncciRestfull\\RncciRestfull.csproj",
       "packagesPath": "C:\\Users\\Hélder Barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hélder Barbosa\\Downloads\\20212022_LEIM_ES_ISC_GSI_TG_18895_ANDRENOGUEIRA_10192_HELDERBARBOSA_19239_LAURACARDOSO (2)\\Entrega_rncci\\RncciSolution\\RncciRestfull\\obj\\",
+      "outputPath": "C:\\Users\\Hélder Barbosa\\source\\repos\\RncciSolution\\RncciRestfull\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
